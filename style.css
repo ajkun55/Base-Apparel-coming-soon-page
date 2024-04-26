@@ -199,7 +199,7 @@ button:hover{
 }
 
 .right{
-    width: 38.125em;
+    width: 610px;
     object-fit: fill;
     grid-area: right;
 }
